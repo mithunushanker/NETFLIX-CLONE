@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.posters{
+    display: flex;
+    object-fit: contain;
+    overflow-y: hidden;
+    padding: 20px;
+    overflow-x: scroll;
+    
+}
+.posters::-webkit-scrollbar{
+    display: none;
+
+}
+.moiveposters{
+    margin-right: 15px;
+    width: 100%;
+    max-height: 200px;
+    transition: all 450ms;
+    
+    
+}
+.moiveposters:hover{
+    transform: scale(1.08);
+
+}
+h2{
+    margin-left: 10px;
+    color: white;
+}

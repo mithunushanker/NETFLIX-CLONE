@@ -1,0 +1,21 @@
+h3{
+   color: white;
+}
+.detailed{
+    display:flex;
+   background-color: black;
+   object-fit: contain;
+   flex-direction: column;
+    
+}
+.image{
+ 
+  
+  margin: 3%;
+ 
+ 
+}
+image:hover{
+    height: 55%;
+    width: 55%;
+}
