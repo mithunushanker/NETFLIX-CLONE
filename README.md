@@ -1,5 +1,5 @@
 # MITFLIX
-  Want make this project yours follow the steps
+  Want to make this project yours follow the steps
 
 # step 1
   create a react app with this following code in terminal
