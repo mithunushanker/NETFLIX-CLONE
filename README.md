@@ -15,6 +15,8 @@
 `npm install @material-ui/icons`
 `npm install --save react-router-dom`
 `npm install -g firebase-tools`
+`npm install axios`
+
 #step 4
  Create a project in firebase
 # step 5
