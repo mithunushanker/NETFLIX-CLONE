@@ -27,7 +27,7 @@
   Replace the api keys with your api key in 
   src/requests.js and all the files
 # step 7 
-  Run the following code in root directory of you react b 
+  Run the following code in root directory of your react 
   project
 `npm start`
 
