@@ -17,8 +17,8 @@
 `npm install -g firebase-tools`
 `npm install axios`
 
-#step 4
- Create a project in firebase
+# step4
+ Create a project in firebae
 # step 5
   Update src/firebase.js
   With your detials
